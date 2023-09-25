@@ -33,7 +33,7 @@ The Professional Career Management System is a database-driven web application d
 5. Import the database schema provided in the "database" folder.
 6. Start the web server and access the application using a web browser.
 
-## Contributors:
+## Contributors:-
 - Jeeban Bhagat [g1bhagat101@gmail.com]
 - Ankush Rauniyar
 - Ashutosh Raj Shrestha [github.com/xargs0][shresthaashutosh314@gmail.com]
