@@ -36,7 +36,7 @@ The Professional Career Management System is a database-driven web application d
 ## Contributors:-
 - Jeeban Bhagat [g1bhagat101@gmail.com]
 - Ankush Rauniyar
-- Ashutosh Raj Shrestha [github.com/xargs0][shresthaashutosh314@gmail.com]
+- Ashutosh Raj Shrestha
 
 Please refer to the documentation for detailed instructions on installation, configuration, and usage of the Professional Career Management System.
 
