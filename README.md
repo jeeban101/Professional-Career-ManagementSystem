@@ -1,4 +1,4 @@
-# Professional-Career-ManagementSystem
+# Professional-Career-Management-System
 Professional Career Management System is portal where candidate can apply for job according to their  qualification and skills by choosing their interested companies and should pass company’s employee  qualification tests for the job. This system has organized environment for candidate side and company  side.
 
 ## Professional Career Management System
